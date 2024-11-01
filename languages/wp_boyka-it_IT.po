@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mypluginindex.php:87
+#: (it is just a line of a note, to remind where our code appears)
+msgid "Compression Level"
+msgstr "Livello di Compressione"
+
+msgid "Already processed"
+msgstr "Gia processato"
+
+msgid "Old Size"
+msgstr "Dimensione precedente"
+
+msgid "New Size"
+msgstr "Nuova dimensione"
+
+msgid "Gain"
+msgstr "Gudagno"
+
+msgid "Reduced by"
+msgstr "Ridotta del"
+
+msgid "Not processed"
+msgstr "Non processata"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Compress now!"
+msgstr "Comprimi adesso!"
+
+msgid "Boyka Settings Page"
+msgstr "Boyka Impostazioni"
+
+msgid "You don't have permission to manage media files"
+msgstr "Non hai i permessi necessari per manipolare file multimediali"
+
+msgid "Change the following information in according to your taste."
+msgstr "Cambia le seguenti impostazioni in base al tuo gusto."
+
+msgid "Default Compression Level"
+msgstr "Livello di compressione predefinito"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Clear the cache"
+msgstr "Svuota la cache"
+
+msgid "Features"
+msgstr "Opzioni"
+
+msgid "Compress the thumbnails"
+msgstr "Comprimere anche le miniature"
+
+msgid "Compress the image while uploading"
+msgstr "Comprimere l'immagine durante l'upload"
+
+msgid "Disable the preview"
+msgstr "Disabilitare l'anteprima"
+
+msgid "Display more information on Media page"
+msgstr "Visualizzare piu' informazioni sulla pagina Media"
+
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+msgid "Boyka Preview Page"
+msgstr "Boyka Anteprima"
+
+msgid "The following are the compression process results in preview. Using this feature you can see the changes before to make them permanent."
+msgstr "I seguenti sono i risultati del processo di compressione. Grazie a questa caratteristica puoi vedere i cambiamenti prima di renderli permanenti."
+
+msgid "<strong>Warning:</strong> using the chosen compression level, it's not possible improve your website's performance. Please, choose an higher compression level."
+msgstr "<strong>Attenzione:</strong> con il livello di compressione scelto, non e' possibile aumentare le performance del tuo sito web. Si prega di scegliere un livello di compressione piu' alto."
+
+msgid "OVERVIEW"
+msgstr "PANORAMICA"
+
+msgid "IMAGE PREVIEW"
+msgstr "ANTEPRIMA IMMAGINE"
+
+msgid "Before Compression"
+msgstr "Prima della compressione"
+
+msgid "After Compression"
+msgstr "Dopo la compressione"
+
+msgid "The directory <strong>%s</strong> is not writable. If you want use the preview, you <strong>must</strong> change its permissions to 777."
+msgstr "La cartella <strong>%s</strong> non e' scrivibile. Se vuoi usare l'opzione di anteprima, <strong>devi</strong> cambiare i permessi in 777."
+
+msgid "No attachment ID was provided."
+msgstr "Non e' stato fornito alcun ID dell'allegato."
+
+msgid "Invalid compression level."
+msgstr "Livello di compressione non valido."
+
+msgid "Invalid image."
+msgstr "Immagine non valida."
+
+msgid "Cache is empty"
+msgstr "La cache e' vuota"
+
+msgid "Compression level"
+msgstr "Livello di compressione"
+
+msgid "The GD library is required by this plugin but it was not found on this server. Please proceed with the installation or contact your hosting support center."
+msgstr "La libreria GD e' richiesta da questo plugin ma non e' stata trovata su questo server. Si prega di procedere all'installazione o di contattare il centro assistenza del vostro hosting."
+

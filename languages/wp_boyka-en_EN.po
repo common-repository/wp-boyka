@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mypluginindex.php:87
+#: (it is just a line of a note, to remind where our code appears)
+msgid "Compression Level"
+msgstr ""
+
+msgid "Already processed"
+msgstr ""
+
+msgid "Old Size"
+msgstr ""
+
+msgid "New Size"
+msgstr ""
+
+msgid "Gain"
+msgstr ""
+
+msgid "Reduced by"
+msgstr ""
+
+msgid "Not processed"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Compress now!"
+msgstr ""
+
+msgid "Boyka Settings Page"
+msgstr ""
+
+msgid "You don't have permission to manage media files"
+msgstr ""
+
+msgid "Change the following information in according to your taste."
+msgstr ""
+
+msgid "Default Compression Level"
+msgstr ""
+
+msgid "Cache"
+msgstr ""
+
+msgid "Clear the cache"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Compress the thumbnails"
+msgstr ""
+
+msgid "Compress the image while uploading"
+msgstr ""
+
+msgid "Disable the preview"
+msgstr ""
+
+msgid "Display more information on Media page"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Boyka Preview Page"
+msgstr ""
+
+msgid "The following are the compression process results in preview. Using this feature you can see the changes before to make them permanent."
+msgstr ""
+
+msgid "<strong>Warning:</strong> using the chosen compression level, it's not possible improve your website's performance. Please, choose an higher compression level."
+msgstr ""
+
+msgid "OVERVIEW"
+msgstr ""
+
+msgid "IMAGE PREVIEW"
+msgstr ""
+
+msgid "Before Compression"
+msgstr ""
+
+msgid "After Compression"
+msgstr ""
+
+msgid "The directory <strong>%s</strong> is not writable. If you want use the preview, you <strong>must</strong> change its permissions to 777."
+msgstr ""
+
+msgid "No attachment ID was provided."
+msgstr ""
+
+msgid "Invalid compression level."
+msgstr ""
+
+msgid "Invalid image."
+msgstr ""
+
+msgid "Cache is empty"
+msgstr ""
+
+msgid "Compression level"
+msgstr ""
+
